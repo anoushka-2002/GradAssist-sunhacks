@@ -100,67 +100,24 @@ p {
     color:#ff4c68;
 }
 
-/* Testimonials */
+.vision{
+    position: absolute;
+width: 209px;
+height: 60px;
+left: 40%;
+top: 60%;
 
-#testimonials {
-    background-color: #ef8172;
-    color: #fff;
+font-family: Poppins;
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 60px;
+
+display: flex;
+align-items: center;
+
+color: #402A30;
 }
-
-.testimonial-image {
-    width:14%;
-    border-radius: 100%;
-    margin:20px;
-}
-
-.testimonial-text {
-    font-size:2.5rem;
-    line-height:1.2;
-}
-
-/* Press */
-
-#press {
-    background-color: #ef8172;
-    padding-bottom: 3%;
-}
-
-.press-logo {
-    width:15%;
-    margin:20px 20px 15px;
-}
-
-/* Pricing */
-
-#pricing {
-    padding: 100px;
-}
-
-.pricing-column {
-    padding:3% 2%;
-}
-
-.price-text {
-    font-size:2.5rem;
-    line-height:1.5;
-}
-
-/* Footer 1 */
-
-#footer1 {
-    background-color: #FF616D;
-    color: #fff;
-}
-
-.footer-container {
-    padding: 7% 15%;
-}
-
-.footer-heading {
-    font-family: 'Montserrat', sans-serif;
-    font-size:3.2rem;
-}
-
 /* Footer 2 */
 
 #footer2 {
