@@ -100,15 +100,13 @@ p {
     color:#ff4c68;
 }
 
-.vision{
-    position: absolute;
+.vision {
 width: 209px;
 height: 60px;
 left: 40%;
 top: 60%;
 
 font-family: Poppins;
-font-style: normal;
 font-weight: 600;
 font-size: 40px;
 line-height: 60px;
@@ -116,7 +114,6 @@ line-height: 60px;
 display: flex;
 align-items: center;
 
-color: #402A30;
 }
 /* Footer 2 */
 
